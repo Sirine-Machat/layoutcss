@@ -1,0 +1,257 @@
+
+.sir{
+    margin-right: 300px;
+}
+#colo{
+    color: #00c4d8;
+}
+#titre-0{
+    position: absolute;
+    width: 260px;
+    height: 300px;
+   margin-top: 30px;
+    background-color: white;
+    text-align: center;
+    margin-bottom:10px;
+}
+#titre-1{
+    height: 300px;
+    width: 260px;
+    margin-left: 290px;
+    background-color: white;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+  
+
+
+}
+#titre-2{
+    position: absolute;
+    width: 260px;
+    height: 300px;
+  margin-bottom: 10px;
+    background-color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+#titre-3{
+    width: 260px;
+    height: 300px;
+    margin-left: 290px;
+    margin-top: 30px;
+    background-color: white;
+    text-align: center;
+    margin-bottom: 10px;
+    
+    
+}height: 300px;
+.tab{
+    justify-content: center;
+     display: flex;
+
+
+}
+#co{
+    color: #00c2d2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.tous{
+  
+  
+   display: flex;
+   background: #dcf8f6;
+
+
+}
+.size{
+    width: 200px;
+    margin-left: 0px;
+}
+
+
+.dis{
+    display: flex;
+    margin-left: 30px;
+    width: 400PX;
+    flex-wrap: wrap;
+
+}
+.dis p:hover{
+    color: #00b39b;
+}
+.dis p{
+    margin-left: 10 px;
+    margin-right: 10px;
+}
+.ti{
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+    width: 752px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#tiv{
+    color:#00b39b ;
+}
+.trans{
+    margin-top: 20px; 
+    background: transparent;
+    color: white;
+    
+}
+.trans option{
+    color: black;
+}
+#logov{
+    padding-top: 15px;
+}
+#logob{
+    padding-top: 15px;
+}
+#logobl{
+    padding-top: 15px;
+}
+.partie{
+    display: flex;
+    justify-content: center;
+
+    
+}
+#vert{
+    margin-right: 25px;
+    background: #00b39b;
+    color: white;
+    width: 220px;
+    height: 290px;
+    border-radius: 15px;
+    padding-left: 20px;
+   
+   
+}
+#blue{
+
+    margin-right: 25px;
+    background:#3d83df;
+    color: white;
+    width: 220px;
+    height: 290px;
+    padding-left: 20px;
+    border-radius: 15px;
+   
+}
+#black{
+    background: #747474;
+    color: white;
+    width: 220px;
+    height: 290px;
+    padding-left: 20px;
+    border-radius: 15px;
+    
+    
+}
+.cou{
+    color: #00b39b; 
+    margin-top:100px; 
+}
+#color{
+    text-align: center; 
+
+}
+
+#box{
+      
+    border:black;
+   margin: 10px;
+    display: flex;
+    justify-content:space-between;
+    position: sticky;
+
+
+}
+#logonav{
+    width: 200px;
+}
+.navigation{
+display: flex;
+}
+#e{
+    color: #00b39b;  
+}
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+li{
+    margin-left: 5px;
+}
+li:hover{
+    color: #00b39b;
+}
+title:hover{
+    color: #00b39b;
+    
+}
+#section1{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+  align-items:center;
+    flex-direction: column;
+
+} 
+#logostar{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+    color: #00b39b;
+}
+#paragraph{
+    display: flex;
+    padding: 50px;
+}
+#countries{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 17%;
+    margin-right: 10%;
+   
+}
+.country{
+width: 300px;
+border: 1px solid rgb(245, 240, 240);   
+border-radius: 10px; 
+margin: 20px;
+
+}
+
+
+.country:hover{
+    box-shadow: 1px 1px 20px 10px rgba(229, 223, 223, 0.67);
+}
+.country img{
+    width: 300px;
+}
+.country-name{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 400;
+    color: #747474;
+    font-family: normal;
+    font-size:  26px;
+}
+.country-name button{
+    background-color: #3d83df;
+    height: 30px;
+    color: white;
+    margin-bottom:5px;
+    
+}
+h6{
+    margin: 2px;
+}
